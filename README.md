@@ -18,3 +18,4 @@ Iam using here NVIDIA jetson nano 4GB version B01 (2GB will work same) with rasp
 
 
 Any questions leave them on comments and I will be glad to answer you.
+![98b963d5-20fa-4c90-84ba-58214502c401](https://user-images.githubusercontent.com/90786657/133483857-32f79dda-0fc3-449a-97e0-4533d4ec517a.jpg)
