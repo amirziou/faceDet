@@ -1,0 +1,7 @@
+libraries you have to install before starting:
+
+face_recognition
+cv2
+os
+pickle
+time
