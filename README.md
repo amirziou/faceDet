@@ -6,6 +6,9 @@ lien des videos: https://mask-and-distanciation-detector.blogspot.com/2021/09/bl
 
 The most essential protections against the spread of the COVID-19 virus are wearing a mask and physical distancing with others. this project aims to distinguish people who do not respect the precautions and sanitary measures.
 The main goal is to implement this system in schools, airports, hospitals, companies and any place where the chances of the spread of COVID-19 are relatively high. The data of students or employees will be captured in the system, if a person is detected without mask or the distance between two people is less than one meter; their names with their photo will be sent to a website in live to the authorities so they can take actions.
+.
+.
+.
 ![1915edb9-98b9-4a8b-9227-acebdb638d55](https://user-images.githubusercontent.com/90786657/133489923-97a969bb-928c-4318-8875-a4e621adcd41.jpg)
 
 
