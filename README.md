@@ -2,7 +2,9 @@
 mask and distanciation detector with Jetson nano
 
 
-Iam using here NVIDIA jetson nano 4GB version B01 (2GB will work same) with raspberry pi camera v2 (aspberry pi camera v1 do not work with jetson nano!) and a wifi adapter (you can use any other wifi source like ethernet); see the setup on 'image'
+
+
+Iam using here NVIDIA jetson nano 4GB version B01 (2GB will work same) with raspberry pi camera v2 (raspberry pi camera v1 do not work with jetson nano!) and a wifi adapter (you can use any other wifi source like ethernet); see the setup on 'image'
 
 
 
