@@ -16,6 +16,10 @@ Iam using here NVIDIA jetson nano 4GB version B01 (2GB will work same) with rasp
 See the setup on 'image'
 
 
+![79f587a9-452d-4e39-8360-3f3cdbdb71d6](https://user-images.githubusercontent.com/90786657/133485544-7612a092-a029-4346-bbd9-899b03f3b456.jpg)
+
+
+
 
 
 1.First you have to install libraries on python found on 'libraries'
