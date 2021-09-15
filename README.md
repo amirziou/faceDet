@@ -1,4 +1,4 @@
-# Discription
+# Description
 MASK AND DISTANCE DETECTOR WITH JETSON NANO
 SEE THE DEMONSTRATION VIDEOS FIRST 
 lien des videos: https://mask-and-distanciation-detector.blogspot.com/2021/09/blog-post_15.html
